@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bienvenido a Mi Documentación
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Esta es la página principal de mi documentación.
 
-## Commands
+## Contenido
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Guía de Instalación](guia/instalacion.md)
+- [Configuración](guia/configuracion.md)
+- [Despliegue](guia/despliegue.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+...
