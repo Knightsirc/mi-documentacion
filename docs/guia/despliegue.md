@@ -40,3 +40,4 @@ npm ci --only=production
 
 # Ejecutar el script de construcción
 npm run build
+```
