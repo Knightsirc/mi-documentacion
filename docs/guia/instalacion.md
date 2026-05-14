@@ -52,3 +52,4 @@ npm -v
 
 git --version
 # Esperado: git version 2.34.1 o superior
+```
