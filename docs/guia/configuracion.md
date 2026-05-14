@@ -57,3 +57,4 @@ server:
 proxy:
   enabled: false
   address: "proxy.empresa.local:3128"
+```
